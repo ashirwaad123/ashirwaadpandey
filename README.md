@@ -1,7 +1,37 @@
-🛠️ Tools & Technologies
+# Ashirwaad Pandey
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+## Data Analyst
+
+M.Com graduate skilled in Excel, SQL, Python, Power BI, and Tableau.
+
+## Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+
+## Projects
+
+### Marketing Campaign Dashboard
+- ROI Analysis
+- CPL & CPA Calculation
+- Pivot Tables
+- Interactive Dashboard
+
+### Sales Analytics Dashboard
+- Revenue Analysis
+- Profit Tracking
+- KPI Monitoring
+
+### Customer Segmentation Analysis
+- Customer Insights
+- Purchase Behavior Analysis
+
+## Resume
+
+[Download Resume](Ashirwaad_Pandey_Resume.docx)
+
+## Contact
+- LinkedIn: Add your LinkedIn URL
+- GitHub: https://github.com/ashirwaad123
